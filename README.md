@@ -7,4 +7,4 @@ Contiene la tarea 2 de la materia, la cuál es un resumen de un articulo sobre q
 ¿Qué ramas existen?
 Existen las branches main y feature-1, en las que están los archivos gitignore, README, y el resumen en T2_JuanLey.ipynb.
 
-¿Para qué se hizo? Para poder completar con la tarea de la clase como está especificado en canvas y aprender a usar git y github como sistema de control de versiones.
+¿Para qué se hizo? Para poder completar con la tarea de la clase como está especificado en canvas y aprender a usar git y github como programa de control de versiones.
